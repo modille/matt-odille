@@ -20,4 +20,7 @@
 # available at http://guides.rubyonrails.org/i18n.html.
 
 en:
+  defaults_app: &defaults_app
+    app_name: "Matt Odille"
+    app_title: "Matt Odille"
   hello: "Hello world"
