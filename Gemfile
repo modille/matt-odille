@@ -41,6 +41,7 @@ gem 'jbuilder', '~> 1.2'
 
 gem 'bootstrap-sass'
 gem 'simple_form', github: 'wtfiwtz/simple_form_bootstrap3'
+gem 'cornify'
 
 group :development do
   gem 'rails_layout'
